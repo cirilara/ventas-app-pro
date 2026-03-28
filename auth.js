@@ -5,14 +5,14 @@ import {
   signInWithEmailAndPassword
 } from "https://www.gstatic.com/firebasejs/10.7.0/firebase-auth.js";
 
-// Your web app's Firebase configuration
-const firebaseConfig = {
+  // Your web app's Firebase configuration
+  const firebaseConfig = {
     apiKey: "AIzaSyA2ix-FcA_sGWHo0F696Otg5Ptz-UFZCxc",
     authDomain: "ventas-app-pro-b8cb7.firebaseapp.com",
     projectId: "ventas-app-pro-b8cb7",
     storageBucket: "ventas-app-pro-b8cb7.firebasestorage.app",
     messagingSenderId: "396394419894",
-    appId: "1:396394419894:web:d346c76bc266a05e38b817"
+    appId: "1:396394419894:web:d7d4cc5b9be64cb938b817"
   };
 
 const app = initializeApp(firebaseConfig);
